@@ -7,7 +7,7 @@ In this project, we collect a large scale benchmark named WildFish for fish reco
 
 
 # Download:
-WildFish Dataset can be downloaded from [here](https://github.com/PeiqinZhuang/WildFish). All the setting in our paper can be found in the zip file.
+WildFish dataset can be downloaded from [here](https://github.com/PeiqinZhuang/WildFish). All the setting in our paper can be found in the zip file.
 
 # Citing:
 ```
