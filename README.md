@@ -14,7 +14,7 @@ WildFish Dataset can be downloaded from [here](https://github.com/PeiqinZhuang/W
     Title = {WildFish: A Large Benchmark for Fish Recognition in the Wild},
     Booktitle = {Proceedings of ACM International Conference on Multimedia (ACM MM)},
     Year = {2018}
-} 
+    } 
 
 
 
