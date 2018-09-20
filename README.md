@@ -9,6 +9,6 @@ In this project, we collect a large scale benchmark named WildFish for fish reco
 
 ## Dataset Related
 ![image](https://github.com/PeiqinZhuang/WildFish/blob/master/paper/Figure1.png)
-* Figure1: Data Sources for WildFish. More collecting and cleaning details can be found in our paper *
+**Figure1: Data Sources for WildFish. More collecting and cleaning details can be found in our paper**
 
 
