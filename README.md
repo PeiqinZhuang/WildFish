@@ -9,5 +9,9 @@ In this project, we collect a large scale benchmark named WildFish for fish reco
 ## Dataset Related
 ![image](https://github.com/PeiqinZhuang/WildFish/blob/master/paper/Figure1.png)
 
+## Open-set Fish Classification
+
+![image](https://github.com/PeiqinZhuang/WildFish/blob/master/paper/Figure2.png)
+
 
 
