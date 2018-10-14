@@ -1,4 +1,4 @@
-![image](/paper/Table1.png)
+![image](/paper/WildFish.jpg)
 
 
 # Introduction:
