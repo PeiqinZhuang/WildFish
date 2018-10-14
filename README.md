@@ -1,4 +1,4 @@
-![image](/paper/WildFish.jpg)
+![image](/paper/WildFish_cover.jpg)
 
 
 # Introduction:
