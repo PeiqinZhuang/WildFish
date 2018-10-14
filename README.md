@@ -1,4 +1,4 @@
-![image](https://github.com/PeiqinZhuang/WildFish/tree/master/paper/WildFish_cover.jpg)
+![image](/paper/WildFish_cover.jpg)
 
 
 # Introduction:
