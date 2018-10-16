@@ -10,6 +10,8 @@ In this project, we collect a large scale benchmark named WildFish for fish reco
 # Fine-grained Fish Recognition with Pairwise Text Descriptions
 ![image](/paper/MMFN.png)
 
+![image](/paper/OpenSet.png)
+
 # Download:
 WildFish dataset can be downloaded from [here](https://github.com/PeiqinZhuang/WildFish). All the setting in our paper can be found in the zip file.
 
