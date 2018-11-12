@@ -9,7 +9,7 @@ In this project, we collect a large scale benchmark named WildFish for fish reco
 ![image](/paper/OpenSet_Framework.png)
 
 ## 2. Fine-grained Fish Recognition with Pairwise Text Descriptions
-![image](/paper/MMFN.png)
+![image](/paper/pairwise.png)
 
 
 
