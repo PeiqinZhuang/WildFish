@@ -8,6 +8,7 @@ In this project, we collect a large scale benchmark named WildFish for fish reco
 - Nov. 12, 2018 We officially release WildFish_version1, which was used in our ACM-MM paper.
 
 
+
 # Tasks:
 ## 1. Open-Set Fish Classification:
 ![image](/paper/OpenSet_Framework.png)
