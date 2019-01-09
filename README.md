@@ -23,12 +23,14 @@ WildFish dataset can be downloaded from [[BaiduYun](https://pan.baidu.com/s/1TQz
 
 # Citing:
 ```
-@inproceedings{zhuang2018wildfish
-    Author = {Peiqin Zhuang, Yali Wang, Yu Qiao},
-    Title = {WildFish: A Large Benchmark for Fish Recognition in the Wild},
-    Booktitle = {Proceedings of ACM International Conference on Multimedia (ACM MM)},
-    Year = {2018}
-    } 
+@inproceedings{zhuang2018wildfish,
+  title={WildFish: A Large Benchmark for Fish Recognition in the Wild},
+  author={Zhuang, Peiqin and Wang, Yali and Qiao, Yu},
+  booktitle={2018 ACM Multimedia Conference on Multimedia Conference},
+  pages={1301--1309},
+  year={2018},
+  organization={ACM}
+}
 ```
 
 # Contact:
