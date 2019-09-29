@@ -22,6 +22,7 @@ In this project, we collect a large scale benchmark named WildFish for fish reco
 WildFish dataset can be downloaded from [[BaiduYun](https://pan.baidu.com/s/1TQz76xDBi3nXL6tsUr8FQg)] or [[Google Drive](https://drive.google.com/open?id=1jOZ1YIG5ThmTjjZNdYz7WBamquAxrkkm)]. All the setting in our paper can be found in the zip file.
 
 # Citing:
+Please cite the following paper, if you use WildFish in your work.
 ```
 @inproceedings{zhuang2018wildfish,
   title={WildFish: A Large Benchmark for Fish Recognition in the Wild},
