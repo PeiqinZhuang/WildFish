@@ -19,7 +19,7 @@ In this project, we collect a large scale benchmark named WildFish for fish reco
 
 
 # Download:
-WildFish dataset can be downloaded from [[BaiduYun](https://pan.baidu.com/s/1keVLXPvo28ozop8lJORslA)] or [[Google Drive](https://drive.google.com/open?id=1jOZ1YIG5ThmTjjZNdYz7WBamquAxrkkm)]. All the setting in our paper can be found in the zip file.
+WildFish dataset can be downloaded from [[BaiduYun](https://pan.baidu.com/s/1keVLXPvo28ozop8lJORslA)] or [[Google Drive](https://drive.google.com/drive/folders/1jOZ1YIG5ThmTjjZNdYz7WBamquAxrkkm?usp=sharing)]. All the setting in our paper can be found in the zip file.
 
 # Citing:
 Please kindly cite the following paper, if you use WildFish in your work.
