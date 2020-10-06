@@ -35,6 +35,6 @@ Please kindly cite the following paper, if you use WildFish in your work.
 ```
 
 # Contact:
-Please feel free to contact {pq.zhuang, yl.wang, yu.qiao}@siat.ac.cn, if you have any questions about WildFish.
+Please feel free to contact zpq0316@163.com or {yl.wang, yu.qiao}@siat.ac.cn, if you have any questions about WildFish.
 
 
