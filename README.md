@@ -32,6 +32,17 @@ Please kindly cite the following paper, if you use WildFish in your work.
   year={2018},
   organization={ACM}
 }
+
+@article{zhuang2020wildfish++,
+  title={Wildfish++: A comprehensive fish benchmark for multimedia research},
+  author={Zhuang, Peiqin and Wang, Yali and Qiao, Yu},
+  journal={IEEE Transactions on Multimedia},
+  volume={23},
+  pages={3603--3617},
+  year={2020},
+  publisher={IEEE}
+}
+
 ```
 
 # Contact:
