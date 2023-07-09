@@ -5,6 +5,7 @@
 In this project, we collect a large scale benchmark named WildFish for fish recognition in the wild. To our best knowledge, it is the largest fish dataset compared with existing fish datasets. It consists **1,000 fish categories** with **54,459 unconstraint images**, allowing to train high-capacity models for automatic fish classification. Besides that, we also propose some novel open-set classification exploration practices and leverage pairwise textual descriptions to distinguish highly-confused species according to some realistic scenarios. More details can be found in our [paper](https://dl.acm.org/citation.cfm?id=3240616).
 
 # News:
+- Please reach me at zpq0316 at 163 dot com, if you have difficulties in using BaiduYun when downloading the dataset.
 - Nov. 12, 2018 We officially release WildFish_version1, which was used in our ACM-MM paper.
 
 
