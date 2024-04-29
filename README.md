@@ -2,7 +2,7 @@
 
 
 # Introduction:
-In this project, we collect a large scale benchmark named WildFish for fish recognition in the wild. To our best knowledge, it is the largest fish dataset compared with existing fish datasets. It consists **1,000 fish categories** with **54,459 unconstraint images**, allowing to train high-capacity models for automatic fish classification. Besides that, we also propose some novel open-set classification exploration practices and leverage pairwise textual descriptions to distinguish highly-confused species according to some realistic scenarios. More details can be found in our [paper](https://dl.acm.org/citation.cfm?id=3240616).
+In this project, we collect a large scale benchmark named WildFish for fish recognition in the wild. To our best knowledge, it is the largest fish dataset compared with existing fish datasets. It consists of **1,000 fish categories** with **54,459 unconstraint images**, enabling the training of high-capacity models for automatic fish classification. In addition, we also propose some novel open-set classification exploration practices and leverage pairwise textual descriptions to distinguish highly-confused species based on some realistic scenarios. More details can be found in our [paper](https://dl.acm.org/citation.cfm?id=3240616).
 
 # News:
 - Please reach me at zpq0316@163.com, if you have difficulties when using BaiduYun to download the dataset.
@@ -20,10 +20,11 @@ In this project, we collect a large scale benchmark named WildFish for fish reco
 
 
 # Download:
-WildFish dataset can be downloaded from [[BaiduYun](https://pan.baidu.com/s/1tBO3EiWi-zHFfELsyjNbXA?pwd=01km)]. All the setting in our paper can be found in the zip file.
+WildFish dataset can be downloaded from [[BaiduYun](https://pan.baidu.com/s/1tBO3EiWi-zHFfELsyjNbXA?pwd=01km)]. All the settings in our paper can be found in the zip file.
 
 # Citing:
 Please kindly cite the following paper, if you use WildFish in your work.
+
 ```
 @inproceedings{zhuang2018wildfish,
   title={WildFish: A Large Benchmark for Fish Recognition in the Wild},
